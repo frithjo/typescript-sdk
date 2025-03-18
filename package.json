@@ -46,6 +46,7 @@
     "client": "tsx src/cli.ts client"
   },
   "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.7.0",
     "content-type": "^1.0.5",
     "cors": "^2.8.5",
     "eventsource": "^3.0.2",
